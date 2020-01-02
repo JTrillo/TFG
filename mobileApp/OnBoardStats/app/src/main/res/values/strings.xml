@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">OnBoardStats</string>
+    <string name="last_route">Última Ruta</string>
+    <string name="routes">Registro de Rutas</string>
+    <string name="change_radio">Cambiar Rueda</string>
+    <string name="date">Fecha:</string>
+    <string name="start_hour">Hora inicio:</string>
+    <string name="length">Duración:</string>
+    <string name="average_speed">Velocidad Media:</string>
+    <string name="distance">Distancia Recorrida:</string>
+    <string name="title_route_detail">Datos de la ruta</string>
+    <string name="ToastRouteDetail">No tiene ninguna ruta almacenada.</string>
+    <string name="welcome">Bienvenido a OnBoardStats</string>
+    <string name="main_dialog">Para que la aplicación funcione correctamente, se necesita la longitud de la rueda de su bicicleta en milímetros (EJ: 2114)</string>
+
+    <string name="save">Guardar</string>
+    <string name="ToastMain">Es necesario almacenar la longitud de la rueda</string>
+    <string name="en_detalle">Ver en detalle</string>
+    <string name="eliminar_ruta">Eliminar Ruta</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="continuar">Continuar</string>
+    <string name="delete_dialog">¿Está seguro que desea eliminar la ruta seleccionada?</string>
+    <string name="ToastConfirmDelete">Ruta eliminada con éxito</string>
+    <string name="ToastCancelDelete">Operación cancelada</string>
+    <string name="start">COMENZAR</string>
+
+    <string name="title_radio">Longitud de la rueda</string>
+    <string name="radio1">La longitud que introduzca debe estar en milímetros, sin decimales.</string>
+    <string name="radio2">Si la longitud que introduce no es la misma que la de su rueda, los cálculos no serán correctos.</string>
+    <string name="error_save">Formato incorrecto para la longitud.</string>
+    <string name="radio3">Si conoce el marcado ISO de su rueda la app puede convertirlo a longitud. EJ: ISO 50-559</string>
+    <string name="radio4">Anchura (mm):</string>
+    <string name="radio5">Diámetro (mm):</string>
+    <string name="bt_convertir">Convertir</string>
+
+
+    <string name="help0">Para poder establecer la conexión, el Bluetooth debe estar activo y tiene que seleccionar el dispositivo \'OnBoardStats\' en el listado.</string>
+    <string name="help1">Si se conecta correctamente el móvil con el disposivo, se le envía a este último la medida de la longitud de la rueda almacenada.</string>
+    <string name="help2">Y la pantalla principal quedaría así, bloqueando toda funcionalidad.</string>
+    <string name="help3">Para desbloquear los botones, pulse el botón \'Finalizar\' o espere a la recepción de datos.</string>
+    <string name="help4">Si desea más ayuda, consulte el manual de usuario.</string>
+    <string name="help5">OnBoardStats fue desarrollada por Joaquín Trillo Escribano</string>
+    <string name="save_route_error">No se pudo guardar la ruta</string>
+    <string name="save_route">Ruta guardada correctamente</string>
+    <string name="fallo_conexion">La Conexión falló</string>
+    <string name="finish">FINALIZAR</string>
+    <string name="socket_fail">La creación del Socket falló</string>
+    <string name="connection_ok">Estableciendo conexión...</string>
+    <string name="bt_admin1">Ningun dispositivo pudo ser emparejado</string>
+    <string name="bt_admin2">El dispositivo no soporta Bluetooth</string>
+    <string name="bt_admin3">"Dispositivo con dirección MAC "</string>
+    <string name="bt_admin4">" seleccionado"</string>
+    <string name="bt_admin5">Seleccione un dispositivo antes de empezar</string>
+    <string name="bt_admin6">Lista de dispositivos emparejados</string>
+    <string name="route_slctd">Ruta seleccionada</string>
+    <string name="routes_str1">Seleccione una ruta</string>
+    <string name="bt_admin7">Primero inserte la longitud de la rueda</string>
+    <string name="edit_wheel1">No se pudo guardar la longitud</string>
+    <string name="edit_wheel2">Longitud guardada correctamente</string>
+    <string name="edit_wheel3">Longitud modificada correctamente</string>
+    <string name="edit_wheel4">No se pudo modificar la longitud</string>
+    <string name="edit_wheel5">Formato de las medidas del marcado ISO incorrecto</string>
+
+</resources>
