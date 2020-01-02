@@ -15,6 +15,8 @@ In addition to see the details of each route, the app allows to remove each one 
 * Folder ***docs*** contains the thesis itself (*memoria.pdf*) and the presentation (*presentacion.pdf*) I used the day I defended my project. Both documents are in Spanish.
 * Folder ***HW*** has three subfolders:
   * ***firmware***. Arduino code.
-  * ***images***. Images of the HW when carrying out the different Arduino files.
+  * ***images***. Images of the HW when executing the different Arduino files.
   * ***schematics***. Visual and electronic schemas.
 * Folder ***mobileApp*** contains one single subfolder with the Android project of the developed mobile app.
+
+## Grade obtained --> 9.6/10, with honors
